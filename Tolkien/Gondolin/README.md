@@ -3,7 +3,6 @@
 
 4. 	“Far too long” -- Tolkien characters seem to use phrases like this throughout Lord of the Rings. Recurrent nightmares are often associated with the symptoms of Post Traumatic Stress Disorder (PTSD).
 5.  “There and Back Again”, the Hobbit alternate title, and way to link Tolkien language to traumatic flashbacks.
-
 6.  Maedhros, son of Feanor rallied armies of the free peoples of Middle Earth to attack Morgoth’s fortress of Angband following the events of the tale of Beren and Luthien. 
 7.  Glorfindel was present during the ensuing battle. “Oaths of blasphemy”, refers to the oath of Feanor and his sons to recover the Silmarils (jewels of light crafted from the Two Trees of Valinor) at all costs, regardless of who possessed them and by any means necessary. 
 8.  Balrogs are described throughout Tolkien’s Legendarium has having whips of pure flame. Angband translates to “Iron prison” and was Morgoth’s fortress during the events of the First Age of Middle Earth.
