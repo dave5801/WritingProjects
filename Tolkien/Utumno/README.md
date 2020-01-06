@@ -1,5 +1,5 @@
 # Utumno
-## Readme, Citations, Thought Process
+## Readme, Citations, Line by Line Thought Process
 
 4. 	Morgoth’s fortress Utumno was in the frozen north of Arda, the world
 5.	lonely mountain, Hobbit reference
