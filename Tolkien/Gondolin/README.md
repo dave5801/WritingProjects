@@ -3,7 +3,6 @@
 
 4. 	“Far too long” -- Tolkien characters seem to use phrases like this throughout Lord of the Rings. Recurrent nightmares are often associated with the symptoms of Post Traumatic Stress Disorder (PTSD).
 5.  “There and Back Again”, the Hobbit alternate title, and way to link Tolkien language to traumatic flashbacks.
-
 6.  Maedhros, son of Feanor rallied armies of the free peoples of Middle Earth to attack Morgoth’s fortress of Angband following the events of the tale of Beren and Luthien. 
 7.  Glorfindel was present during the ensuing battle. “Oaths of blasphemy”, refers to the oath of Feanor and his sons to recover the Silmarils (jewels of light crafted from the Two Trees of Valinor) at all costs, regardless of who possessed them and by any means necessary. 
 8.  Balrogs are described throughout Tolkien’s Legendarium has having whips of pure flame. Angband translates to “Iron prison” and was Morgoth’s fortress during the events of the First Age of Middle Earth.
@@ -88,9 +87,7 @@
 94. At the end of the War of Wrath, Earendil, now grown, and with a wife, and children,  takes one of the Silmarils on his ship, Vingalot, West to Valinore, and is sent by the Valar through the Sky back to Middle Earth. Earendil then battles the largest Dragon ever created by Morgoth, Ancalagon the Black, the ensuing battle results in the destruction of Beleriand and the defeat of Morgoth. 
 95. Beleriand, the lands of Middle Earth settled by the Noldor Elves is lost beneath the ocean following the end of the War of Wrath.
 96. Because of his selfless actions Glorfindel is sent back to Middle Earth as an emissary of the Valar, on a similar mission as Gandalf and the Istari.
-
 98. “Mae Govannen” means “Well Met” in Elvish, you can hear this phrase throughout the Peter Jackson movies. Olorin is Gandalf’s name in Valinor.
-
 101.  “The road goes ever on and on” this song is sung by Gandalf and Bilbo in The Fellowship of the Ring. After Elves die, their spirits reside in the Halls of Mandos to await judgement. As Glorfindel selfless actions served the interests of the Valar, and he took no part in the massacre of the Teleri, he was granted a pardon by the Valar, to return to Middle Earth.
 102.    Gandalf, Saruman, and the other wizards are immortal spirits who serve the Valar and given the forms of elderly men, so they may advise and assist the mortals who struggle against Sauron. They are the Istari.
 103.    Their forms as elderly men are supposed to make them appear wise to mortals. “Cheap tricks” goes back to the line “do not take me for a conjurer of cheap tricks”. During the flight to Rivendell from the Nazgul, Aragorn (Viggo Mortenson) remarks that Frodo’s wounds are beyond his skill to heal.
