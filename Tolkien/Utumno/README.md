@@ -27,7 +27,7 @@
 27. Orcs are described by Tokien as being corrupted Elves, captured by Morgoth. There is also a reference to the “Secret Fire” which the Illuvatar used to create the life forms. Education has also been labeled as evil by religious fanatics throughout history.
 28. Imagery is derived from Disney’s Night on Bald Mountain, and another reference to the scientific method.
 29. Another reference to the Song of the Ainur.
-30. Morgoth translates to “Dark Enemy” this name was given to Melkor by Feanor after the theft of the SIlmarils. Gandalf also refers to the Balrog at the Bridge of Khazad Dum as the “flame of Udun”, Udun is another name for Utumno, meaning underworld. 
+30. Morgoth translates to “Dark Enemy” this name was given to Melkor by Feanor after the theft of the Silmarils. Gandalf also refers to the Balrog at the Bridge of Khazad Dum as the “flame of Udun”, Udun is another name for Utumno, meaning underworld. 
 
 
 
