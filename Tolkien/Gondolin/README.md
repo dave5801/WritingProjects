@@ -10,7 +10,8 @@
 10. Tolkien frequently refers to the Ring as a long burden which could be interpreted as more PTSD references. 
 11. Ulmo the Valar of the sea appears to Tuor in the Fall of Gondolin but he is often described throughout the Silmarillion as communicating to the Free Peoples through the presence of water.
 12. Nirnaeth Arnoediad translates to the Battle of Unnumbered Tears. The armies of Middle Earth marched on the gates of Angband and were massacred almost completely. Glorfindel, Ecthelion, Maeglin, Turgon, and Hurin were part of this terrible battle.
-13. "for few now live to protect this realm" is borrowed from the introduction to Peter Jackson’s The Fellowship of the Ring, “for none now live who remember it” as played by actress Cate Blanchet.  
+13. “for few now live to protect this realm” is borrowed from the introduction to Peter Jackson’s The Fellowship of the Ring, “for none now live who remember it” as played by actress Cate Blanchet.  
+
 15. This character is not Gandalf the Grey but uses the same imagery. ‘Conjuring’ refers to Gandalf’s line to Bilbo “Do not take for some conjurer of cheap tricks” as played by Sir Ian Mclellan in the The Fellowship of the Ring. “voiceless it cries” is part of one of Gollum’s riddles in The Hobbit.
 16. Glaurung is the wingless father of dragons created by Morgoth. Hurin was fastened to a seat in Angband and forced to watch through Morgoth’s sorcery the events of The Children of Hurin. “Wingless it flutters” is part of the same riddle made by Gollum. “Blades of black” refers to the Black Sword, Anglachel (forged by Eol the Dark Elf) which was wielded by Turin Turimbar, the son of Hurin.
 17.  Thorin Oakenshield’s company refer to Bilbo as the “burglar”. Gollum engages Bilbo in the chapter Riddles in the Dark where they play a “game of riddles”.
@@ -87,7 +88,9 @@
 94. At the end of the War of Wrath, Earendil, now grown, and with a wife, and children,  takes one of the Silmarils on his ship, Vingalot, West to Valinore, and is sent by the Valar through the Sky back to Middle Earth. Earendil then battles the largest Dragon ever created by Morgoth, Ancalagon the Black, the ensuing battle results in the destruction of Beleriand and the defeat of Morgoth. 
 95. Beleriand, the lands of Middle Earth settled by the Noldor Elves is lost beneath the ocean following the end of the War of Wrath.
 96. Because of his selfless actions Glorfindel is sent back to Middle Earth as an emissary of the Valar, on a similar mission as Gandalf and the Istari.
+
 98. “Mae Govannen” means “Well Met” in Elvish, you can hear this phrase throughout the Peter Jackson movies. Olorin is Gandalf’s name in Valinor.
+
 101.  “The road goes ever on and on” this song is sung by Gandalf and Bilbo in The Fellowship of the Ring. After Elves die, their spirits reside in the Halls of Mandos to await judgement. As Glorfindel selfless actions served the interests of the Valar, and he took no part in the massacre of the Teleri, he was granted a pardon by the Valar, to return to Middle Earth.
 102.    Gandalf, Saruman, and the other wizards are immortal spirits who serve the Valar and given the forms of elderly men, so they may advise and assist the mortals who struggle against Sauron. They are the Istari.
 103.    Their forms as elderly men are supposed to make them appear wise to mortals. “Cheap tricks” goes back to the line “do not take me for a conjurer of cheap tricks”. During the flight to Rivendell from the Nazgul, Aragorn (Viggo Mortenson) remarks that Frodo’s wounds are beyond his skill to heal.
