@@ -2,10 +2,10 @@
 ## Readme, Citations, Line by Line Thought Process
 
 ### Stanza 1
-Line 1. 	Morgoth’s fortress Utumno was in the frozen north of Arda, the world
-Line 2.	    lonely mountain, Hobbit reference
-Line 3.	    Geology reference, erosion by glacier, and volcanism
-Line 4.	    middle earth, Lord of the Rings reference, a commentary on where the phrase the name or concept of earth being a middle ground, might have originated.
+- Line 1. 	Morgoth’s fortress Utumno was in the frozen north of Arda, the world
+- Line 2.	    lonely mountain, Hobbit reference
+- Line 3.	    Geology reference, erosion by glacier, and volcanism
+- Line 4.	    middle earth, Lord of the Rings reference, a commentary on where the phrase the name or concept of earth being a middle ground, might have originated.
 8.  Illuin is one of two towers of light created by the Valar in the early days of the world’s creation. “observe” - reference to the scientific method. “Song” is a reference to the Song of the Ainur, where Iluvatar, God, lead the Ainur, or angelic spirits, in a song that created the world.
 9.  A reference to narrow minded ideology and oversimplified moral narratives. Someone questions (curiosity) and is therefore evil.
 10. Imagery derived from Peter Jackson’s The Two Towers, where Gandalf leads the Riders of Rohan down a hill to helm’s deep -- but with moral ambiguity.
