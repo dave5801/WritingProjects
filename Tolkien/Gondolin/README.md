@@ -61,54 +61,59 @@
 - Line 9.   Aredhel, Turgon’s sister, chose to leave the city of Gondolin. Glorfindel and Ecthelion were sent to escort her. However, they became separated from her. While wandering in the forests she met Eol, who coerced her marriage. Later, Aredhel fled Eol to return to Gondolin, this time with their son Maeglin. Eol pursued them into the court of Turgon. When Eol refused to remain inside the hidden city he hurled a poisoned javelin at Maeglin but hit Aredhel instead. Eol was then executed by being thrown from the highest tower. Later, during the events of the Fall of Gondolin, Maeglin was confronted by Tuor after placing his hands on Idril. The two fought, and Maeglin was thrown from the tower as his father before him. “Drink slows his mind” is derived from Saruman as played by Christopher Lee when addressing Gandalf, “Your love of the halfling’s leaf, has clearly slowed your mind”.
 - Line 10.  Ecthelion is described as wearing a spiked war helmet. “grows tall” is derived from dialogue from Peregrin Took when describing his own height in Return of the King.
 
-61. “As you wish, I care not” is spoken by Boromir (Sean Bean) when briefly holding the ring at the Pass of Caradhras.
+“As you wish, I care not” is spoken by Boromir (Sean Bean) when briefly holding the ring at the Pass of Caradhras.
 
-63. A reference to the drums in the Mines of Moria.
-64. Imagery inspired by the Battle of Helm’s Deep. Balrogs were originally Maiar spirits that joined Morgoth’s service, they depicted as being Demonic.
-65. Gothmog was the greatest of the Balrogs and High Captain of Angband. The Balrogs are described in the Fall of Gondolin as riding on the backs of Dragons.
-66. Tolkien describes machines powered by “internal fires” during the battle, the imagery is derived from the tearing down of Saddam Hussein’s statue during the Iraq War in 2003.	
-67. Tuor was responsible for the slaying of a large Fire Drake during the battle.
-68. Shield walls (or the Phalanx) were a tactic of European armies from Hellenistic, Roman, and Medieval periods. Gothmog also translates to ‘hatred’ or ‘strife’ and is depicted as carrying a large war axe in addition to a whip. Fool of a Friend” is derived from “Fool of a Took” where Gandalf was yelling at Peregrin Took in the Mines of Moria. Ecthelion dueled with Gothmog during the battle. 
-69. Gothmog was wounded after being stabbed by Ecthelion’s spiked helmet.
-70. After being wounded Gothmog fell into a large fountain in the Gondolin’s city square and drowned together with Ecthelion. “The Fountain rids us” is derived from Gandalf’s line to Peregrin Took in the Mines of Moria, “Throw yourself in next time, and rid us of your stupidity”
-71. A reference to the Great Library of Alexandria in Egypt and also the decline in literacy following the Bronze Age Collapse. 
-72. “Trembling hands” is derived from actor Tom Hanks performance in Saving Private Ryan, 1998, his hands are trembling during the opening depiction of the Omaha Beach landings during the Invasion of Normandy.
-74. Werewolves and Wargs (riding wolves) are described by Tolkien on numerous occasions throughout the forces of both Morgoth and Sauron. Sauron at one point, during the tale of Beren and Luthien transforms into a Werewolf. Samwise Gamgee (Sean Astin) says to Frodo on the slopes of Mount Doom “I can’t carry it for you, but I can carry you”, this is the basis for this line.
-75. This inspired by a scene in Forrest Gump (Tom Hanks) where he rescues numerous wounded soldiers during a battle in Vietnam, but fails to save his friend Bubba, a truly heart breaking scene.
-76. Fearing an attack on the city, Idril had a tunnel constructed in secret. She was also wedded to Tuor.
-77. Idril’s Secret Way led from the city through the Crissaegrim, the home of the Eagles of Thorondor.
-78. Gondolin was built on a hill at the center of Tumladen, the Hidden Valley. “Cracks in the doomed valley” is derived from descriptions of Mount Doom. “Demon crouched” is inspired by The Archfiend of Ifnir, as depicted in the card game, Magic: The Gathering, the artist who created the image is Seb McKinnon.
-79. The hill on which Gondolin stood is surrounded by a lush green plane.
-80. Gondolin’s survivor’s make their way out of the city but encounter a Balrog leading a host of Orcs. Glorfindel confronts the Balrog in single combat.
-81. efore the Bridge of Khazad Dum, Gandalf (Ian Mclellan) warns the Fellowship of the coming Balrog “this Foe is beyond any of you”. 
-82. Eru Illuvatar, or God, creates all living things in Arda (the World) using the Secret Fire, which Morgoth wants for himself. Sting, Bilbo and Frodo’s Elven dagger glows with light when Orcs are close. Glorfindel stabs the Balrog in the belly during the battle.
-83. In the final moments of the battle, the Balrog grabs Glorfindel and pulls him over a cliff, in a similar manner as Gandalf at the Bridge of Khazad Dum.
+### Stanza 6
+- Line 1.   A reference to the drums in the Mines of Moria.
+- Line 2.   Imagery inspired by the Battle of Helm’s Deep. Balrogs were originally Maiar spirits that joined Morgoth’s service, they depicted as being Demonic.
+- Line 3.   Gothmog was the greatest of the Balrogs and High Captain of Angband. The Balrogs are described in the Fall of Gondolin as riding on the backs of Dragons.
+- Line 4.   Tolkien describes machines powered by “internal fires” during the battle, the imagery is derived from the tearing down of Saddam Hussein’s statue during the Iraq War in 2003.	
+- Line 5.   Tuor was responsible for the slaying of a large Fire Drake during the battle.
+- Line 6.   Shield walls (or the Phalanx) were a tactic of European armies from Hellenistic, Roman, and Medieval periods. Gothmog also translates to ‘hatred’ or ‘strife’ and is depicted as carrying a large war axe in addition to a whip. Fool of a Friend” is derived from “Fool of a Took” where Gandalf was yelling at Peregrin Took in the Mines of Moria. Ecthelion dueled with Gothmog during the battle. 
+- Line 7.   Gothmog was wounded after being stabbed by Ecthelion’s spiked helmet.
+- Line 8.   After being wounded Gothmog fell into a large fountain in the Gondolin’s city square and drowned together with Ecthelion. “The Fountain rids us” is derived from Gandalf’s line to Peregrin Took in the Mines of Moria, “Throw yourself in next time, and rid us of your stupidity”
+- Line 9.   A reference to the Great Library of Alexandria in Egypt and also the decline in literacy following the Bronze Age Collapse. 
+- Line 10.  “Trembling hands” is derived from actor Tom Hanks performance in Saving Private Ryan, 1998, his hands are trembling during the opening depiction of the Omaha Beach landings during the Invasion of Normandy.
 
-85. “You shall not pass”  or "You cannot pass" as spoken by Gandalf at the Bridge of Khazad Dum.
+### Stanza 7
+- Line 1.   Werewolves and Wargs (riding wolves) are described by Tolkien on numerous occasions throughout the forces of both Morgoth and Sauron. Sauron at one point, during the tale of Beren and Luthien transforms into a Werewolf. Samwise Gamgee (Sean Astin) says to Frodo on the slopes of Mount Doom “I can’t carry it for you, but I can carry you”, this is the basis for this line.
+- Line 2.   This inspired by a scene in Forrest Gump (Tom Hanks) where he rescues numerous wounded soldiers during a battle in Vietnam, but fails to save his friend Bubba, a truly heart breaking scene.
+- Line 3.   Fearing an attack on the city, Idril had a tunnel constructed in secret. She was also wedded to Tuor.
+- Line 4.   Idril’s Secret Way led from the city through the Crissaegrim, the home of the Eagles of Thorondor.
+- Line 5.   Gondolin was built on a hill at the center of Tumladen, the Hidden Valley. “Cracks in the doomed valley” is derived from descriptions of Mount Doom. “Demon crouched” is inspired by The Archfiend of Ifnir, as depicted in the card game, Magic: The Gathering, the artist who created the image is Seb McKinnon.
+- Line 6.   The hill on which Gondolin stood is surrounded by a lush green plane.
+- Line 7.   Gondolin’s survivor’s make their way out of the city but encounter a Balrog leading a host of Orcs. Glorfindel confronts the Balrog in single combat.
+- Line 8.   Before the Bridge of Khazad Dum, Gandalf (Ian Mclellan) warns the Fellowship of the coming Balrog “this Foe is beyond any of you”. 
+- Line 9.   Eru Illuvatar, or God, creates all living things in Arda (the World) using the Secret Fire, which Morgoth wants for himself. Sting, Bilbo and Frodo’s Elven dagger glows with light when Orcs are close. Glorfindel stabs the Balrog in the belly during the battle.
+- Line 10.  In the final moments of the battle, the Balrog grabs Glorfindel and pulls him over a cliff, in a similar manner as Gandalf at the Bridge of Khazad Dum.
 
-87. More derivative language from Ian Mclellan from The Two Towers.
-88. his time it is combined with language of Samwise Gamgee and Gandalf’s words to Peregrin Took at the Battle of Minas Tirith in Return of the King.	
-89. This is derived by Gandalf’s description as delivered by Ian Mclellan of the battle with the Balrog in Moria before he returns to Middle Earth as Gandalf the White.
-90. This continues Gandalf’s epic description, but in this case the Eagles intervene to save Gondolin’s survivors.
-91. “when it really mattered after so much happened” this is derived from numerous quotes by Samwise Gamgee (Sean Astin) when he compares Frodo’s quest to destroy the ring to old stories they heard in the Shire.
-92. Thorondor is the king of the Eagles in the First Age of Middle Earth. A bald eagle is also the symbol of the 101st Airborne Division (the Screaming Eagles) of the US Army, which played pivotal roles in the Allied efforts in World War 2, as depicted in HBOs miniseries Band of Brothers, based on the book by Stephen Ambrose, Tom Hanks was also a writer for this series.	
-93. ”Fly you fools!” Gandalf’s final words before falling with the Balrog from the Bridge of Khazad Dum.
-94. At the end of the War of Wrath, Earendil, now grown, and with a wife, and children,  takes one of the Silmarils on his ship, Vingalot, West to Valinore, and is sent by the Valar through the Sky back to Middle Earth. Earendil then battles the largest Dragon ever created by Morgoth, Ancalagon the Black, the ensuing battle results in the destruction of Beleriand and the defeat of Morgoth. 
-95. Beleriand, the lands of Middle Earth settled by the Noldor Elves is lost beneath the ocean following the end of the War of Wrath.
-96. Because of his selfless actions Glorfindel is sent back to Middle Earth as an emissary of the Valar, on a similar mission as Gandalf and the Istari.
+“You shall not pass”  or "You cannot pass" as spoken by Gandalf at the Bridge of Khazad Dum.
 
-98. “Mae Govannen” means “Well Met” in Elvish, you can hear this phrase throughout the Peter Jackson movies. Olorin is Gandalf’s name in Valinor.
+### Stanza 8
+- Line 1.   More derivative language from Ian Mclellan from The Two Towers.
+- Line 2.   This time it is combined with language of Samwise Gamgee and Gandalf’s words to Peregrin Took at the Battle of Minas Tirith in Return of the King.	
+- Line 3.   This is derived by Gandalf’s description as delivered by Ian Mclellan of the battle with the Balrog in Moria before he returns to Middle Earth as Gandalf the White.
+- Line 4.   This continues Gandalf’s epic description, but in this case the Eagles intervene to save Gondolin’s survivors.
+- Line 5.   “when it really mattered after so much happened” this is derived from numerous quotes by Samwise Gamgee (Sean Astin) when he compares Frodo’s quest to destroy the ring to old stories they heard in the Shire.
+- Line 6.   Thorondor is the king of the Eagles in the First Age of Middle Earth. A bald eagle is also the symbol of the 101st Airborne Division (the Screaming Eagles) of the US Army, which played pivotal roles in the Allied efforts in World War 2, as depicted in HBOs miniseries Band of Brothers, based on the book by Stephen Ambrose, Tom Hanks was also a writer for this series.	
+- Line 7.   ”Fly you fools!” Gandalf’s final words before falling with the Balrog from the Bridge of Khazad Dum.
+- Line 8.   At the end of the War of Wrath, Earendil, now grown, and with a wife, and children,  takes one of the Silmarils on his ship, Vingalot, West to Valinore, and is sent by the Valar through the Sky back to Middle Earth. Earendil then battles the largest Dragon ever created by Morgoth, Ancalagon the Black, the ensuing battle results in the destruction of Beleriand and the defeat of Morgoth. 
+- Line 9.   Beleriand, the lands of Middle Earth settled by the Noldor Elves is lost beneath the ocean following the end of the War of Wrath.
+- Line 10.  Because of his selfless actions Glorfindel is sent back to Middle Earth as an emissary of the Valar, on a similar mission as Gandalf and the Istari.
 
-101.  “The road goes ever on and on” this song is sung by Gandalf and Bilbo in The Fellowship of the Ring. After Elves die, their spirits reside in the Halls of Mandos to await judgement. As Glorfindel selfless actions served the interests of the Valar, and he took no part in the massacre of the Teleri, he was granted a pardon by the Valar, to return to Middle Earth.
-102.    Gandalf, Saruman, and the other wizards are immortal spirits who serve the Valar and given the forms of elderly men, so they may advise and assist the mortals who struggle against Sauron. They are the Istari.
-103.    Their forms as elderly men are supposed to make them appear wise to mortals. “Cheap tricks” goes back to the line “do not take me for a conjurer of cheap tricks”. During the flight to Rivendell from the Nazgul, Aragorn (Viggo Mortenson) remarks that Frodo’s wounds are beyond his skill to heal.
-104.    Olorin was reluctant to undertake to join the Istari as he was not the most powerful and was highly afraid of Sauron.
-105.    This is derived from Samwise Gamgee “there is good...and it is worth fighting for”
-106.    The Istari were forbidden with using violence or their magical powers for dominance.
-107.    This is a hint that The Hobbits of the Shire are saviors of Middle Earth.
-108.    Gandalf and Olorin are not necessarily the same person, this to create room for character development by showing fear and insecurity.
-109.    This conversation is taking place in the lands of the West across the sea from Middle Earth.
-110.    Implying the Shire exists.	
+“Mae Govannen” means “Well Met” in Elvish, you can hear this phrase throughout the Peter Jackson movies. Olorin is Gandalf’s name in Valinor.
+
+### Stanza 9
+- Line 1.   “The road goes ever on and on” this song is sung by Gandalf and Bilbo in The Fellowship of the Ring. After Elves die, their spirits reside in the Halls of Mandos to await judgement. As Glorfindel selfless actions served the interests of the Valar, and he took no part in the massacre of the Teleri, he was granted a pardon by the Valar, to return to Middle Earth.
+- Line 2.   Gandalf, Saruman, and the other wizards are immortal spirits who serve the Valar and given the forms of elderly men, so they may advise and assist the mortals who struggle against Sauron. They are the Istari.
+- Line 3.   Their forms as elderly men are supposed to make them appear wise to mortals. “Cheap tricks” goes back to the line “do not take me for a conjurer of cheap tricks”. During the flight to Rivendell from the Nazgul, Aragorn (Viggo Mortenson) remarks that Frodo’s wounds are beyond his skill to heal.
+- Line 4.   Olorin was reluctant to undertake to join the Istari as he was not the most powerful and was highly afraid of Sauron.
+- Line 5.   This is derived from Samwise Gamgee “there is good...and it is worth fighting for”
+- Line 6.   The Istari were forbidden with using violence or their magical powers for dominance.
+- Line 7.   This is a hint that The Hobbits of the Shire are saviors of Middle Earth.
+- Line 8.   Gandalf and Olorin are not necessarily the same person, this to create room for character development by showing fear and insecurity.
+- Line 9.   This conversation is taking place in the lands of the West across the sea from Middle Earth.
+- Line 10.  Implying the Shire exists.	
   
 
 
