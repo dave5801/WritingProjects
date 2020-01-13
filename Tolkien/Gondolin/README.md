@@ -11,6 +11,7 @@
 11. Ulmo the Valar of the sea appears to Tuor in the Fall of Gondolin but he is often described throughout the Silmarillion as communicating to the Free Peoples through the presence of water.
 12. Nirnaeth Arnoediad translates to the Battle of Unnumbered Tears. The armies of Middle Earth marched on the gates of Angband and were massacred almost completely. Glorfindel, Ecthelion, Maeglin, Turgon, and Hurin were part of this terrible battle.
 13. “for few now live to protect this realm” is borrowed from the introduction to Peter Jackson’s The Fellowship of the Ring, “for none now live who remember it” as played by actress Cate Blanchet.  
+
 15. This character is not Gandalf the Grey but uses the same imagery. ‘Conjuring’ refers to Gandalf’s line to Bilbo “Do not take for some conjurer of cheap tricks” as played by Sir Ian Mclellan in the The Fellowship of the Ring. “voiceless it cries” is part of one of Gollum’s riddles in The Hobbit.
 16. Glaurung is the wingless father of dragons created by Morgoth. Hurin was fastened to a seat in Angband and forced to watch through Morgoth’s sorcery the events of The Children of Hurin. “Wingless it flutters” is part of the same riddle made by Gollum. “Blades of black” refers to the Black Sword, Anglachel (forged by Eol the Dark Elf) which was wielded by Turin Turimbar, the son of Hurin.
 17.  Thorin Oakenshield’s company refer to Bilbo as the “burglar”. Gollum engages Bilbo in the chapter Riddles in the Dark where they play a “game of riddles”.
